@@ -1,0 +1,1 @@
+python genshin_set_color.py -n EllaMuskBodyTexcoord.buf --stride 12 -r 255 -g 255 -b 255 -a 100
